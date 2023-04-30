@@ -1,0 +1,3 @@
+[submodule "distributedlogistics"]
+	path = distributedlogistics
+	url = https://github.com/Rahat-ch/distributedlogistics.git
